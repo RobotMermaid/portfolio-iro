@@ -2,11 +2,12 @@
 layout: post
 title: ProfHire Landing Page
 feature-img: "img/profhirebanner.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
+thumbnail-path: "img/profhirepage.png"
 short-description: ProfHire welcome page with animation!
 
 ---
-
+{:.center}
+![]({{ site.baseurl }}/img/profhiretop.png)
 
 [ProfHire](https://www.profhire.com/applicant/)  
 "A technology start-up company offering a single source solution connecting Higher Education with part-time faculty."

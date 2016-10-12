@@ -1,29 +1,24 @@
 ---
 layout: post
 title: Tim Rangel Real Estate
-feature-img: "img/tim-run.jpg"
-thumbnail-path:  "img/twilight04.jpg"
+feature-img: "img/tim_run.png"
+thumbnail-path:  "img/TimRangel.png"
 short-description: A Real Estate Site for my brother in law
+---
 
-
+![]({{ site.baseurl }}/img/TRlogo.png)
 
 **About the project**  
-BlocJams is music player very much like spotify that I built while doing the Bloc.io bootcamp.
+A Real Estate site that was also a personal site. As a realtor, Tim wanted a site that would give clients an idea of who he was aswell as connect to properties. Trust is such a big issue when making the decision to buy a house, Tim wanted it to inspire confidence.
   
 **My Role**  
-I was  starting there as an intern, my first project was to create a landing page for the applicants comming to the site through a job ad. 
-It's main goal was to explain as succintly as possible what ProfHire does. I worked directly with the CEO.
+I was excited at the oportunity and was willing to do whatever. Even went above and beyond creating a logo for him
  
  **The Challenge**  
- When an applicant clicks on a job posting they expect to go directly to the description of the job. With ProfHire they are actually entering a system that will require more involvement than they might expect. I needed to create a page that was eye-catching and quickly promoted the value of the system so that the applicants would continue to the site.  The page needed to fit in with the existing design and work on all platforms from Smart Phones to Safari for Windows. It would have to be integrated in a larger code base that was dynamically created with php and using bootstrap.
+Buying a house is a huge endeavor, both financially and emotionally. We wanted to inspire confidence by pesenting Tim and his team as profesionnal, personable and capable realtors that had it all covered. 
  
 **The Answer**  
-Movement grabs attention so my first thought was to create an animation that would explain what ProfHire does.
-I presented my idea to the team and they were very excited about it. They all agreed that an animation was a good solution to the problem. 
-We worked out the other elements that should go on the page as well as the basic parts of the animation.
-I created the illustrations for the basic image from actual school buildings as well as the application. I used a combination of svg and png that I worked out in Sketch.
-The illustrations would have to stay side by side and align just right so that the movement made sense.
-The most complicated part was to get the svgs to behave properly accross different web browsers. Integrating it was also difficult and took alot of massaging.
+Tim sent me links to websites that inspired him and projected the feel he was after. I gleaned a little from all of them and created a site that was customized to his goal.
  
  **In the End**
- The founders were very excited about the page. It fullfilled it's role perfectly. Reports on google analytics were positive. Applicants who came to the landing page were very likely to continue on to the site and persue applying. The whole process didn't take as long as I had anticipated. In retrospect I would have started the integration process earlier on in the design. I didn't get much help as none of the team was experienced with css animations and svg but that was fine since I love to create animations.
+Even though the site was not used it was fun working on it. 

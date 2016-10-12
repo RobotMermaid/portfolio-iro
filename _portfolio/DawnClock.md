@@ -1,21 +1,22 @@
 ---
 layout: post
-title: BlocJams
-feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-short-description: BlocJams for iOS is awesome!
-
-
+title: The Dawn Alarm Clock
+feature-img: "img/prototype.png"
+thumbnail-path: "img/DawnAlarm.png"
+short-description: Waking up in DIY style!
+---
+{:.center}
+![]({{ site.baseurl }}/img/final.png)
 
 **About the project**  
-BlocJams is music player very much like spotify that I built while doing the Bloc.io bootcamp.
+This alarm clock doesn't ring, it shines. It recreates the full spectrum of an aurora borealis on the ceiling to gently wake you up without a sound so that others may sleep in.
   
 **My Role**  
-I was  starting there as an intern, my first project was to create a landing page for the applicants comming to the site through a job ad. 
-It's main goal was to explain as succintly as possible what ProfHire does. I worked directly with the CEO.
+I had been experiementing with arduinos and leds and so this was the perfect oportunity to put them to go use. I used the adafruit website for inspiration. Using a similar project's tutorial, I adapted it to my needs using Prcessing.
  
  **The Challenge**  
- When an applicant clicks on a job posting they expect to go directly to the description of the job. With ProfHire they are actually entering a system that will require more involvement than they might expect. I needed to create a page that was eye-catching and quickly promoted the value of the system so that the applicants would continue to the site.  The page needed to fit in with the existing design and work on all platforms from Smart Phones to Safari for Windows. It would have to be integrated in a larger code base that was dynamically created with php and using bootstrap.
+The clock had to create enough light to wake me up without being jarring.  It needed to be reliable and fit on the nightstand. I wanted it to look neat when not in operation (no pile of wires showing) and stand alone (not be hooked up to the computer or another device.
+The biggest dificulty was in keeping time. Allthough the little time piece inside (the DS3231 Precision RTC Breakout  from Adafruit) would read the time from a satelite, it could only do so when in direct view of the sky.
  
 **The Answer**  
 Movement grabs attention so my first thought was to create an animation that would explain what ProfHire does.
@@ -26,4 +27,4 @@ The illustrations would have to stay side by side and align just right so that t
 The most complicated part was to get the svgs to behave properly accross different web browsers. Integrating it was also difficult and took alot of massaging.
  
  **In the End**
- The founders were very excited about the page. It fullfilled it's role perfectly. Reports on google analytics were positive. Applicants who came to the landing page were very likely to continue on to the site and persue applying. The whole process didn't take as long as I had anticipated. In retrospect I would have started the integration process earlier on in the design. I didn't get much help as none of the team was experienced with css animations and svg but that was fine since I love to create animations.
+The Dawn alarm worked for a month or two before it started to falter. No efforts on my part were able to put it back on the right time. I believe that the first power source I used was faulty. It would cause the clock to emit a few bursts of its brightest light before beginning it's normal sequence. The problem was fixed by using a higher quality power source but the damage may have all ready been done.
