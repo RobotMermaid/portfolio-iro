@@ -12,14 +12,14 @@ I started taking online courses for programming  in September 2013. At first I t
 
 I even gave up on the whole thing and got a job as a Production person for Berkeley's own North Altantic Books. The expereience was fun but quickly become boring and I missed the challenge of programming.
 
-The time had come to find a boot camp to get me through that last mile of learning and projects. The search was on.  HackBright quickly popped to the top of my favorites mostly because they had reasonable hours. Having struggled through some rather difficult concepts on Treehouse, I didn't believe anyone could learn much of anything in 4 intense months of nonstop input.  Your brain needs to process. To do something else. How many times does a solution simply come to you after taking a break? 
+The time had come to find a boot camp to get me through that last mile of learning and creating some awesome projects. The search was on.  HackBright quickly popped to the top of my favorites list mostly because they had reasonable hours. Having struggled through some rather difficult concepts on Treehouse, I didn't believe anyone could learn much of anything in 4 intense months of nonstop input.  Your brain needs to process. To do something else. How many times does a solution simply come to you after taking a break? 
+I went through their whole application process and spoke with the wonderful Dori.  In the end, they didn't take me. I was crushed...for a whole day. The search continued. Much introspection was done. More research...brought me to online boot camps. They offered the best of both worlds.
+
 Having spoken to a few HackBright alumni it seemed that the retention rate is said to be about 20%. There will be tears, I was told. I would be challenged. Yes, but to what end? To see if I would give up? 
 
-Eric Elliott ‏@_ericelliott  Jul 27
+
+
+> Eric Elliott ‏@_ericelliott  Jul 27
 Stuff that will help your coding career more than a degree: mentorship, cool projects on GitHub, experience building real apps.
-
-
-
-> Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque
 
 
