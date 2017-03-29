@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Marco Polo Project
-feature-img: "img/raspberryCat.png"
+feature-img: "img/raspberrycat.png"
 ---
 
 ## Situation   
