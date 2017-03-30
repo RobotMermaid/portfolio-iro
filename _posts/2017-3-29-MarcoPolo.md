@@ -5,7 +5,7 @@ feature-img: "img/raspberrycat.png"
 ---
 
 ## Situation   
-Our worlds revolve around our devices. We carry them around religioulsy since they allow us to live  our lives the way we like them. They almost make us Cyborg.  They connect us to our realities and they are connected to ours. Some people have a harder time than others in staying within a reality. They forget to check in with a quick text. They forget to call. They are too distracted to respond to an email.  I happen to be related to one of those.  I didn't want to harrass him but I also didn't want to worry.  
+Our worlds revolve around our devices. We carry them around religiously since they allow us to live  our lives the way we like them. They almost make us Cyborg.  They connect us to our realities and they are connected to ours. Some people have a harder time than others in staying within a reality. They forget to check in with a quick text. They forget to call. They are too distracted to respond to an email.  I happen to be related to one of those.  I didn't want to harrass him but I also didn't want to worry.  
 I had to find another way.
 
 ## Action
