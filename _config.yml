@@ -20,7 +20,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # "ondinerangel@gmail.com"
+  email_address: "ondinerangel@gmail.com"
   behance:
   bitbucket:
   dribbble:
@@ -29,7 +29,7 @@ theme_settings:
   github: "/RobotMermaid"
   google_plus:
   instagram:
-  linkedin:  "linkedin.com/in/robotmermaid/"
+  linkedin:  "/in/robotmermaid/"
   pinterest:
   reddit:
   soundcloud:
