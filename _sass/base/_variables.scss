@@ -26,5 +26,5 @@ $feature-image-text-color: #fff;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
 
 // Header description box
-$header-desc-background-color: @include background-image(linear-gradient(top, rgba(39,102,133,1) 0%, rgba(216,225,231,1) 78%, rgba(21,110,161,1) 93%, rgba(224,239,249,1) 100%));
+$header-desc-background-color:linear-gradient(top, rgba(39,102,133,1) 0%, rgba(216,225,231,1) 78%, rgba(21,110,161,1) 93%, rgba(224,239,249,1) 100%);
 $header-desc-text-color: #b77625;
