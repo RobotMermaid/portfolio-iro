@@ -9,7 +9,7 @@ $padding-small: 5%;
 $padding-x-small: 3%;
 
 // Brand colours
-$brand-color: ;
+$brand-color: none;
 $background-color: #cdbfc3;
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 
@@ -26,5 +26,5 @@ $feature-image-text-color: #fff;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
 
 // Header description box
-$header-desc-background-color: url("paper.gif");
+$header-desc-background-color: "img/avatar.png";
 $header-desc-text-color: #b77625;
