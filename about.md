@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: Ondine
 permalink: /about/
 feature-img: "img/ondineSmall.jpg"
 ---
 
-##Project manager and artist who found coding and hasn't looked back.
+## Project manager and artist who found coding and hasn't looked back.
 
 I've just finished an extensive boot camp at [Bloc.io](https://www.coursereport.com/schools/bloc) and I'm hoping to find a position as a Front-End Developer to continue learning.  
 
@@ -23,6 +23,7 @@ and my progress on [Treehouse.com](https://teamtreehouse.com/ondinemagalirangel)
 * I ride a scooter
 * I speak French natively, Spanish haltingly, German hesitantly, and KLingon sporadically :)
 
+
 Growing up I was what is now called a [third culture kid.] (https://en.wikipedia.org/wiki/Third_culture_kid)  I lived in 5 countries before I came to California at 18. The experience made me forever curious about how people think. The internet is a window to the larger world and I can't get enough. I enjoy the challenge of understanding what is other.
 
 I am compulsively creative and love to bring a project to life. The feeling of accomplishment from making an idea become a reality is one of my favorite things in the world. I have explored many different arts and crafts from knitting, sculpting, creating games, and painting.  I found that what I enjoy about creating is the same drive for programming: Inspiration, Flow, and Production. All my energy is now going into code.
@@ -37,8 +38,7 @@ My enthusiasm for production is something I bring to everything in my life.
 
 I’ve been attending conferences and meetups to get to know the community and see what is new in the industry and I am hungry to learn more (everything?)  
 
-Thanks for reading,
+Thanks for reading.
 
-Ondine
 
 For a peek at my [Resume](https://goo.gl/ghqBAX)  
