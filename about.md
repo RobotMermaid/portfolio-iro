@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ondine
+title: About
 permalink: /about/
 feature-img: "img/ondineSmall.jpg"
 ---
@@ -38,7 +38,9 @@ My enthusiasm for production is something I bring to everything in my life.
 
 I’ve been attending conferences and meetups to get to know the community and see what is new in the industry and I am hungry to learn more (everything?)  
 
-Thanks for reading.
+Thanks for reading,
+
+~Ondine
 
 
 For a peek at my [Resume](https://goo.gl/ghqBAX)  
