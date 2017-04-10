@@ -17,7 +17,7 @@ theme_settings:
      with Design Skills.</h1>
   header_text_feature_image: img/spaceMermaid.JPG
   footer_text: >
-   See more of my code at <a href="https://github.com/RobotMermaid">Type Theme</a>
+   See more of my code on <a href="https://github.com/RobotMermaid">Github</a>
 
   # Icons
   rss: false
