@@ -1,9 +1,19 @@
 ---
 layout: post
-title: BlocTalk
+title: Blocipedia
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030974/bloctalk_1x.png"
-short-description: BlocJams for iOS is awesome!
+short-description: Built a CRUD application using Ruby on Rails. application that allows users to create public and private Markdown-based wikis.
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+##User Stories
+
+*As a user, I want to sign up for a free account by providing a user name, password and email	
+*As a user, I want to sign in and out of Blocipedia	
+*As a user with a standard account, I want to create, read, update, and delete public wikis	
+*As a developer, I want to offer three user roles: admin, standard, or premium	
+*As a developer, I want to seed the development database automatically with users and wikis	
+*As a user, I want to upgrade my account from a free to a paid plan	
+*As a premium user, I want to create private wikis	
+*As a user, I want to edit wikis using Markdown syntax	
+*As a premium user, I want to add and remove collaborators for my private wikis
