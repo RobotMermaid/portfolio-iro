@@ -21,7 +21,7 @@ and my progress on [Treehouse.com](https://teamtreehouse.com/ondinemagalirangel)
 * I'm learning to play the ukulele
 * I have 1 dog 2 cats 2 chickens and many fish
 * I ride a scooter
-* I speak French natively, Spanish haltingly, German hesitantly, and KLingon sporadically :)
+* I speak French natively, Spanish haltingly, German hesitantly, and Klingon sporadically!
 
 
 Growing up I was what is now called a [third culture kid.] (https://en.wikipedia.org/wiki/Third_culture_kid)  I lived in 5 countries before I came to California at 18. The experience made me forever curious about how people think. The internet is a window to the larger world and I can't get enough. I enjoy the challenge of understanding what is other.
