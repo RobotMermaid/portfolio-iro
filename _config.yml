@@ -13,7 +13,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Full-Stack Web Developer with Design Skills.</h1>
+     <h1>Full-Stack Web Developer
+     with Design Skills.</h1>
   header_text_feature_image: img/spaceMermaid.JPG
   footer_text: >
    See more of my code at <a href="https://github.com/RobotMermaid">Type Theme</a>
