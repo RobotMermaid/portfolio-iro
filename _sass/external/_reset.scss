@@ -293,7 +293,6 @@ input[type="reset"],
 input[type="submit"] {
   -webkit-appearance: button; /* 2 */
   cursor: pointer; /* 3 */
-
 }
 
 /**
@@ -320,11 +319,15 @@ input::-moz-focus-inner {
  * the UA stylesheet.
  */
 
+input[type="submit"] {
+  color: orchid;
+}
+
 input {
   line-height: normal;
   width: 100%;
-  margin-top:3%;
-  padding: 5px 0px 5px 0px;
+  margin-top:2%;
+  padding: 0px 0px 10px 0px;
 }
 
 /**
