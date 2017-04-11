@@ -321,11 +321,12 @@ input::-moz-focus-inner {
 
 input[type="submit"] {
   width: 20%;
+  margin: 0 auto;
 }
 
 textarea {
-  margin-top:2%;
-  height: 10%;
+  margin-top:.5%;
+  height: 30%;
 }
 
 input {
