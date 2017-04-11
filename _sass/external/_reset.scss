@@ -320,13 +320,12 @@ input::-moz-focus-inner {
  */
 
 input[type="submit"] {
-  width: 20%;
-  margin: 0 auto;
-  border-radius: 25px;
-   background: #73AD21;
-   padding: 20px;
-   width: 200px;
-   height: 50px;
+  width: 16%;
+  border-radius: 10px;
+  background: #dac491;
+  width: 200px;
+  height: 30%;
+  margin-top: 2%;
 }
 /**
  * Remove default vertical scrollbar in IE 8/9/10/11.
@@ -336,14 +335,14 @@ textarea {
   overflow: auto;
   width: 100%;
   margin-top: 2%;
-  height: 30%;
+  height: 50%;
 }
 
 input {
   line-height: normal;
   width: 100%;
   margin-top:2%;
-  padding: 0px 0px 10px 0px;
+  padding: 0px 4px 14px 0px;
 }
 
 /**
