@@ -10,20 +10,21 @@ feature-img: "img/ondineSmall.jpg"
 See what I've been doing on [Codewars.com](https://www.codewars.com/users/RobotMermaid)  
 and my progress on [Treehouse.com](https://teamtreehouse.com/ondinemagalirangel)
 
+For a peek at my [Resume.](https://goo.gl/ghqBAX)  
+
 I've just finished an extensive boot camp at [Bloc.io](https://www.coursereport.com/schools/bloc) and I'm hoping to find a position as a Front-End Developer to continue learning.  
 
-I come from a production background which I was good at and tried to go back to but my heart now belongs to ruby.
+I come from a production background which I was good at and tried to go back to but my heart now belongs to Ruby.
 
-I’ve been learning programming over the past 4 years taking the time to dive deeply into the fundamental concepts of programming and exploring the command line, web requests, node, responsive theory, jQuery, Wordpress, Angular ...
-I have the skills and training needed to help develop and maintain software programs and to make improvements that will enhance functionality. I have outstanding problem solving skills with the ability to work with technical and abstract concepts efficiently. I also have solid knowledge of JavaScript, Ruby on Rails HTML and CSS. A good understanding of back-end development best practices and hands-on software troubleshooting experience.
-I pay close attention to details and I have the ability to stay focused on the task at hand for long periods to get the job done.
-I love diving into code and figuring out what makes it tick.
+I’ve been learning programming over the past 4 years taking the time to dive deeply into the fundamental concepts of programming and exploring the command line, web requests, node, responsive theory, jQuery, Wordpress, Angular ...  
+I have the skills and training needed to help develop and maintain software programs and to make improvements that will enhance functionality. I have outstanding problem solving skills with the ability to work with technical and abstract concepts efficiently. I also have solid knowledge of JavaScript, Ruby on Rails HTML and CSS. A good understanding of back-end development best practices and hands-on software troubleshooting experience.  
+I pay close attention to details and I have the ability to stay focused on the task at hand for long periods to get the job done.  
+I love diving into code and figuring out what makes it tick.  
 I’ve been attending conferences and meet-ups at every chance to see what is new such as React and get to know the community. I am hungry to learn more (everything?)
 
-Lately I am fascinated by the incorporation of technology in every day life. The Internet of Things is now a mundane part of our lives and I want to be part of that integration. I want to bridge the gap between software and people.
-When I get more time I intend to dive into electronics (Arduinos & LEDs).
-My fun thing to do is SVG animations in css.
-
+Lately I am fascinated by the incorporation of technology in every day life. The Internet of Things is now a mundane part of our lives and I want to be part of that integration. I want to bridge the gap between software and people.  
+When I get more time I intend to dive into electronics (Arduinos & LEDs).  
+My fun thing to do is SVG animations in css.  
 
 
 #### Me in a nutshell:
@@ -48,6 +49,3 @@ My enthusiasm for production is something I bring to everything in my life.
 Thanks for reading,
 
 ~Ondine
-
-
-For a peek at my [Resume](https://goo.gl/ghqBAX)  
