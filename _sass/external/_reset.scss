@@ -320,7 +320,12 @@ input::-moz-focus-inner {
  */
 
 input[type="submit"] {
-  color: orchid;
+  width: 20%;
+}
+
+textarea {
+  margin-top:2%;
+  height: 10%;
 }
 
 input {
