@@ -322,9 +322,9 @@ input::-moz-focus-inner {
 input[type="submit"] {
   width: 16%;
   border-radius: 10px;
-  background: #56a5e1;
-  width: 10%;
-  height: 30%;
+  background: #66aee4;
+  border: none;
+  // height: 30%;
   margin-top: 2%;
 }
 /**
@@ -336,13 +336,14 @@ textarea {
   width: 100%;
   margin-top: 2%;
   height: 50%;
+  padding: 0px 4px 14px 7px;
 }
 
 input {
   line-height: normal;
   width: 100%;
   margin-top:2%;
-  padding: 0px 4px 14px 0px;
+  padding: 0px 4px 14px 7px;
 }
 
 /**

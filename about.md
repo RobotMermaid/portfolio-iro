@@ -5,7 +5,7 @@ permalink: /about/
 feature-img: "img/ondineSmall.jpg"
 ---
 
-## Project manager and artist who found coding and hasn't looked back.
+### Project manager and artist who found coding and hasn't looked back.
 
 I've just finished an extensive boot camp at [Bloc.io](https://www.coursereport.com/schools/bloc) and I'm hoping to find a position as a Front-End Developer to continue learning.  
 
@@ -22,7 +22,7 @@ My fun thing to do is SVG animations in css and design.
 
 
 
-## Me in a nutshell:
+#### Me in a nutshell:
 
 * I love to learn and help others learn too
 * I get a kick out of making things
