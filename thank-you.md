@@ -2,9 +2,9 @@
 layout: page
 title: Thank You
 permalink: /thank-you/
-feature-img: "img/spaceMermaidColorsml.jpg"
+feature-img: "img/AstroSirenTiny.png"
 hide: true
 ---
 
-Thank You 
+Thank You
 ...and remember to check your oxygen levels often.

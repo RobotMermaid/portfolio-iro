@@ -12,6 +12,10 @@ I've just finished an extensive boot camp at [Bloc.io](https://www.coursereport.
 See what I've been doing on [Codewars.com](https://www.codewars.com/users/RobotMermaid)  
 and my progress on [Treehouse.com](https://teamtreehouse.com/ondinemagalirangel)  
 
+I come from a production background which i was good at and tried to go back to but my heart now belongs to ruby.
+
+Diving into code and figuring out how to make it tick.
+
 Lately I am fascinated by the incorporation of technology in every day life. The Internet of Things is now a mundane part of our lives and I want to be part of that integration. I want to bridge the gap between software and people.
 When I get more time I intend to dive into electronics (Arduinos & LEDs).
 My fun thing to do is SVG animations in css and design.
