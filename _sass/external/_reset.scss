@@ -322,10 +322,20 @@ input::-moz-focus-inner {
 input[type="submit"] {
   width: 20%;
   margin: 0 auto;
+  border-radius: 25px;
+   background: #73AD21;
+   padding: 20px;
+   width: 200px;
+   height: 50px;
 }
+/**
+ * Remove default vertical scrollbar in IE 8/9/10/11.
+ */
 
 textarea {
-  margin-top:.5%;
+  overflow: auto;
+  width: 100%;
+  margin-top: 2%;
   height: 30%;
 }
 
@@ -405,15 +415,7 @@ legend {
   padding: 0; /* 2 */
 }
 
-/**
- * Remove default vertical scrollbar in IE 8/9/10/11.
- */
 
-textarea {
-  overflow: auto;
-  width: 100%;
-  margin-top: 10%;
-}
 
 /**
  * Don't inherit the `font-weight` (applied by a rule above).
