@@ -324,8 +324,9 @@ input[type="submit"] {
   border-radius: 7px;
   color: #66aee4;
   border: none;
-  padding-top: 7px;
+  padding-top: 9px;
   margin-top: 2%;
+  text-align: center;
 }
 /**
  * Remove default vertical scrollbar in IE 8/9/10/11.
@@ -344,6 +345,7 @@ input {
   width: 100%;
   margin-top:2%;
   padding: 0px 4px 14px 7px;
+
 }
 
 /**
