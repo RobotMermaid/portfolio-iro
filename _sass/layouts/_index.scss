@@ -38,7 +38,7 @@
 .work {
   h2 {
     text-align: center;
-  
+
   }
   @extend %padding-regular;
   background-size: $feature-image-size;
@@ -54,7 +54,7 @@
     }
     img {
       box-shadow: 5px 5px 20px #000031;
-      margin-bottom: 0.5%;
+      margin-bottom: 1%;
     }
     a {
         padding:5% 0% 0%;
