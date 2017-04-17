@@ -35,4 +35,4 @@ Diversity is nothing without inclusion. Making everyone feel like they have a ch
 
 Be more like Star Trek, not the Mongol Horde.
 
-thanks to [Sarah T. ]( http://www.teenink.com/opinion/environment/article/465407/The-Importance-and-Benefits-of-Diversity/) for putting it so well
+thanks to [Sarah T. ]( http://www.teenink.com/opinion/environment/article/465407/The-Importance-and-Benefits-of-Diversity/) for putting it so well.
