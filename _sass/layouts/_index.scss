@@ -52,13 +52,14 @@
     p a:hover {
       @extend %link-hover;
     }
+    li:hover {
+      background-color: #66aee4;
+    }
     img {
       box-shadow: 5px 5px 20px #000031;
       margin-bottom: 2%;
     }
-    img:hover {
-      background-color:  #66aee4;
-    }
+
     a {
         padding:5% 0% 0%;
         font-size: 1.3em;
