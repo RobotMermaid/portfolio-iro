@@ -4,15 +4,18 @@ title: The Marco Polo Project
 feature-img: "img/raspberrycat.png"
 ---
 
+Our worlds revolve around our devices. We carry them around religiously since they allow us to live  our lives the way we like them. They almost make us Cyborg.  They connect us to our realities and they are connected to ours. Some people have a harder time than others in staying within a reality. They forget to check in with a quick text. They forget to call. They are too distracted to respond to an email.  I happen to be related to one of those.  
+I didn't want to harass him but I also didn't want to worry.   
+I had to find another way.  
+
 ### Situation   
 
-Our worlds revolve around our devices. We carry them around religiously since they allow us to live  our lives the way we like them. They almost make us Cyborg.  They connect us to our realities and they are connected to ours. Some people have a harder time than others in staying within a reality. They forget to check in with a quick text. They forget to call. They are too distracted to respond to an email.  I happen to be related to one of those.  I didn't want to harass him but I also didn't want to worry.  
-I had to find another way.
+I wanted to know when devices became active on  the router since it's the hub of all digital comings and goings of the house. This was my final project with Bloc.io.   
 
 ### Action  
 
-I wanted to know when devices became active on  the router since it's the hub of all digital comings and goings of the house.  
-The hardest part was figuring out a course of action when I had little notion of what that entailed. Much research was done. I looked for similar projects and with help from my mentor, learned about the technologies that I could use.  There are some very generous people out there who have taken the time to create well explained tutorials. They will forever be one of the reasons I love the internet.  
+I needed to log in to the router's webpage and get the list of devices (Capybara). If anything changed I needed to get a message informing me of the difference (Ruby and IFTTT.com). This needed to run at a regular interval (cron). All of which hosted on a device that would always be there (RaspberryPi).
+The hardest part was figuring out a course of action when I had little notion of what that entailed. How do you crawl the web? How do you set up a cron job? What does IFTTT really do? Much research was done. I looked for similar projects and with help from my mentor, learned about the technologies that I could use.  There are some very generous people out there who have taken the time to create well explained tutorials. They will forever be one of the reasons I love the internet.  
 
 #### Capybara:  
 
