@@ -57,7 +57,7 @@ theme_settings:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Comfortaa:700 + Roboto:400,700"
+  google_fonts: "Baloo + Open+Sans"
 
 # PAGINATION
 paginate: 5
