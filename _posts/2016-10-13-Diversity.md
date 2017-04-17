@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Diversty: Star Trek & the Mongol Horde
-feature-img: "img/startrekmongol.png"  
+feature-img: "img/startrekmongol.png"
 ---
-
 I grew up moving often. We changed homes every 2 or 3 years and that usually meant changing countries too. Different was the name of the game and I loved it.   
 
 Curious about all I was hearing about diversity recently I set out to read what people are saying about this. All of the articles I found pointed to statistics that show that diverse companies do better than the rest. They had numbers. They were adamant that diversity matters. Few ventured into the grey of why that works. They seemed to quickly loop back to saying: "Diversity matters because diversity matters."   
