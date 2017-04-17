@@ -57,7 +57,7 @@ theme_settings:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Roboto:400,700 + Ubuntu:400,700,700italic,400italic"
+  google_fonts: "Comfortaa:700 + Roboto:400,700"
 
 # PAGINATION
 paginate: 5
