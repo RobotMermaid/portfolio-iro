@@ -9,12 +9,13 @@ theme_settings:
   title: Ondine Rangel
   avatar: AstroSirenTiny.png
   gravatar: # Email MD5 hash
-  description: "A full-stack web developer with design skills portfolio website with blog posts and pages" # used by search engines
+  description: "A full-stack web developer with project management experience portfolio website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Full-Stack Web Developer
-     with Design Skills.</h1>
+     <h1>Ondine Rangel </h1>
+     <h2>Full-Stack Web Developer</h2>
+     <h4>Rails/HTML/CSS/JS</h4>
   header_text_feature_image: img/spaceMermaid.JPG
   footer_text: >
    See more of my code on <a href="https://github.com/RobotMermaid">Github</a>
