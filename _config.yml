@@ -15,7 +15,7 @@ theme_settings:
   header_text: >
      <h1>Ondine Rangel </h1>
      <h2>Full-Stack Web Developer</h2>
-     <h4>Rails/HTML/CSS/JS</h4>
+     <h4>Rails / JS / HTML / CSS</h4>
   header_text_feature_image: img/spaceMermaid.JPG
   footer_text: >
    See more of my code on <a href="https://github.com/RobotMermaid">Github</a>
