@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Diversty Star Trek & the Mongol Horde
+title: Diversity
 feature-img: "img/startrekmongol.png"
 ---
 I grew up moving often. We changed homes every 2 or 3 years and that usually meant changing countries too. Different was the name of the game and I loved it.   
