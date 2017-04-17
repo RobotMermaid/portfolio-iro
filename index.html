@@ -11,13 +11,14 @@ layout: default
   {% endif %}
 
   <div class="work">
-    <h2 style="margin-bottom: 1em;">My Work</h2>
+    <h1 style="margin-bottom: 1em;">My Work</h1>
     <p style="text-align: center;margin-bottom: 5em;"> Check out my <a href="https://github.com/RobotMermaid">
       github</a> for more projects. </p>
     {% for project in site.portfolio limit:4 %}
         <li>
+          <a href="{{ project.url }}">
           <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/>
-          <a href="{{ project.url }}">{{ project.title }}</a>
+          {{ project.title }}</a>
           <p>{{ project.short-description }}</p>
         </li>
     {% endfor %}
@@ -25,7 +26,7 @@ layout: default
   </div>
 
   <div class="posts">
-    <h2>My Posts</h2>
+    <h1>My Posts</h1>
     {% for post in paginator.posts %}
     <div class="post-teaser">
       <header>
