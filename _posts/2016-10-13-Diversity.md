@@ -16,8 +16,9 @@ Diversity means that people have certain differences:
 	• Gender   
 	• Ethnicity  
 	• Disabilities  
-	• Age	 
+	• Age	  
 	• Sexual Orientation  
+	
 	and these differences don't affect their work ethics and ability.
 
 Now, the uncomfortable.
